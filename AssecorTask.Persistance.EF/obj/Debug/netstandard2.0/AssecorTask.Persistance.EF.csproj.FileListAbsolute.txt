@@ -1,0 +1,13 @@
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Persistance.EF.deps.json
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Persistance.EF.dll
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Persistance.EF.pdb
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Application.dll
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Domain.dll
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Application.pdb
+C:\blabla\AssecorTask.Persistance.EF\bin\Debug\netstandard2.0\AssecorTask.Domain.pdb
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.csprojAssemblyReference.cache
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.AssemblyInfoInputs.cache
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.AssemblyInfo.cs
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.csproj.CopyComplete
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.dll
+C:\blabla\AssecorTask.Persistance.EF\obj\Debug\netstandard2.0\AssecorTask.Persistance.EF.pdb

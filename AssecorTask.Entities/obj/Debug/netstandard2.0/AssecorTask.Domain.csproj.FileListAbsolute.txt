@@ -1,0 +1,8 @@
+C:\blabla\AssecorTask.Entities\bin\Debug\netstandard2.0\AssecorTask.Domain.deps.json
+C:\blabla\AssecorTask.Entities\bin\Debug\netstandard2.0\AssecorTask.Domain.dll
+C:\blabla\AssecorTask.Entities\bin\Debug\netstandard2.0\AssecorTask.Domain.pdb
+C:\blabla\AssecorTask.Entities\obj\Debug\netstandard2.0\AssecorTask.Domain.csprojAssemblyReference.cache
+C:\blabla\AssecorTask.Entities\obj\Debug\netstandard2.0\AssecorTask.Domain.AssemblyInfoInputs.cache
+C:\blabla\AssecorTask.Entities\obj\Debug\netstandard2.0\AssecorTask.Domain.AssemblyInfo.cs
+C:\blabla\AssecorTask.Entities\obj\Debug\netstandard2.0\AssecorTask.Domain.dll
+C:\blabla\AssecorTask.Entities\obj\Debug\netstandard2.0\AssecorTask.Domain.pdb

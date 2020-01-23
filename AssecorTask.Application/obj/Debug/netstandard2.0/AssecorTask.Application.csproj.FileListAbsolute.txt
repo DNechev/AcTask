@@ -1,0 +1,11 @@
+C:\blabla\AssecorTask.Application\bin\Debug\netstandard2.0\AssecorTask.Application.deps.json
+C:\blabla\AssecorTask.Application\bin\Debug\netstandard2.0\AssecorTask.Application.dll
+C:\blabla\AssecorTask.Application\bin\Debug\netstandard2.0\AssecorTask.Application.pdb
+C:\blabla\AssecorTask.Application\bin\Debug\netstandard2.0\AssecorTask.Domain.dll
+C:\blabla\AssecorTask.Application\bin\Debug\netstandard2.0\AssecorTask.Domain.pdb
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.csprojAssemblyReference.cache
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.AssemblyInfoInputs.cache
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.AssemblyInfo.cs
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.csproj.CopyComplete
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.dll
+C:\blabla\AssecorTask.Application\obj\Debug\netstandard2.0\AssecorTask.Application.pdb
